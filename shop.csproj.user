@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <StartAction>Project</StartAction>
+    <EnvironmentVariables>
+      <Variable name="ASPNETCORE_ENVIRONMENT" value="Development" xmlns="" />
+      <Variable name="VULTR_KEY" value="LFFGQNEQJLTBBRLVI2OPNSNKAAZYYGAFARQQ" xmlns="" />
+      <Variable name="CONNECTION_STRING" value="server=45.77.92.30;user id=web;password=RafaAnthony#1;port=3306;database=shop;old guids=true;" xmlns="" />
+      <Variable name="ACCESS_KEY" value="AKIAIDSHH5ILRFRK6DRQ" xmlns="" />
+      <Variable name="SECRET_KEY" value="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" xmlns="" />
+      <Variable name="SPARKPOST_API_KEY" value="5dce1cf550fc1cbb830f1e2c55cdb4e31be97446" xmlns="" />
+      <Variable name="VULTR_API_KEY" value="LFFGQNEQJLTBBRLVI2OPNSNKAAZYYGAFARQQ" xmlns="" />
+    </EnvironmentVariables>
+    <LaunchUrl>api/values</LaunchUrl>
+  </PropertyGroup>
+</Project>

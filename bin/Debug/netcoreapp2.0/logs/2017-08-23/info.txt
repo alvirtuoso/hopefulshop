@@ -1,0 +1,5 @@
+2017-08-23 11:05:26.0836|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-23 11:05:37.1816|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 11118.894ms
+2017-08-23 11:06:02.9467|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-23 11:06:45.3261|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-23 11:06:45.5144|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 42568.081ms

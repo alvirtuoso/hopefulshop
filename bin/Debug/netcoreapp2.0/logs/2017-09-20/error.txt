@@ -1,0 +1,7 @@
+2017-09-20 10:53:55.2716|ERROR|shop.Controllers.DnsController|Unknown column 'RecordId' in 'field list'
+2017-09-20 10:53:55.7025|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request
+2017-09-20 10:58:13.3188|ERROR|shop.Controllers.DnsController|Unknown column 'UserId' in 'field list'
+2017-09-20 10:58:13.8468|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request
+2017-09-20 11:00:13.4111|ERROR|shop.Controllers.DnsController|Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2017-09-20 12:24:36.2268|ERROR|shop.Controllers.UserController|Fatal error encountered during command execution.

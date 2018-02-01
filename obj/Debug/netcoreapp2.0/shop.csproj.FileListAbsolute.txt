@@ -1,0 +1,12 @@
+/Users/amercado/Projects/shop/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/amercado/Projects/shop/bin/Debug/netcoreapp2.0/shop.deps.json
+/Users/amercado/Projects/shop/bin/Debug/netcoreapp2.0/shop.runtimeconfig.json
+/Users/amercado/Projects/shop/bin/Debug/netcoreapp2.0/shop.runtimeconfig.dev.json
+/Users/amercado/Projects/shop/bin/Debug/netcoreapp2.0/shop.dll
+/Users/amercado/Projects/shop/bin/Debug/netcoreapp2.0/shop.pdb
+/Users/amercado/Projects/shop/obj/Debug/netcoreapp2.0/shop.csprojResolveAssemblyReference.cache
+/Users/amercado/Projects/shop/obj/Debug/netcoreapp2.0/shop.csproj.CoreCompileInputs.cache
+/Users/amercado/Projects/shop/obj/Debug/netcoreapp2.0/shop.AssemblyInfoInputs.cache
+/Users/amercado/Projects/shop/obj/Debug/netcoreapp2.0/shop.AssemblyInfo.cs
+/Users/amercado/Projects/shop/obj/Debug/netcoreapp2.0/shop.dll
+/Users/amercado/Projects/shop/obj/Debug/netcoreapp2.0/shop.pdb

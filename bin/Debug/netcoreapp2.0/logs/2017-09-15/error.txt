@@ -1,0 +1,16 @@
+2017-09-15 11:55:33.7342|ERROR|shop.Controllers.UserController|Sequence contains no elements
+2017-09-15 12:17:03.1731|ERROR|shop.Controllers.UserController|****** AverageStars ******* The specified string is not in the form required for an e-mail address.
+2017-09-15 12:29:19.9820|ERROR|shop.Controllers.UserController|****** AverageStars ******* The specified string is not in the form required for an e-mail address.
+2017-09-15 12:34:32.9756|ERROR|shop.Controllers.UserController|****** AverageStars ******* The specified string is not in the form required for an e-mail address.
+2017-09-15 12:34:33.4953|ERROR|shop.Controllers.UserController|****** AverageStars ******* The specified string is not in the form required for an e-mail address.
+2017-09-15 12:43:17.6390|ERROR|shop.Controllers.UserController|****** AverageStars ******* Mailbox unavailable. The server response was: 5.7.1 Unverified Sending Domain <hopeful.shop>
+2017-09-15 12:44:45.5321|ERROR|shop.Controllers.UserController|****** AverageStars ******* Mailbox unavailable. The server response was: 5.7.1 Unverified Sending Domain <hopeful.shop>
+2017-09-15 12:48:28.4385|ERROR|shop.Controllers.UserController|****** AverageStars ******* Mailbox unavailable. The server response was: 5.7.1 Unverified Sending Domain <hopeful.shop>
+2017-09-15 12:53:30.2705|ERROR|shop.Controllers.UserController|****** AverageStars ******* Mailbox unavailable. The server response was: 5.7.1 Unverified Sending Domain <hopeful.shop>
+2017-09-15 12:53:49.6054|ERROR|shop.Controllers.UserController|****** AverageStars ******* Mailbox unavailable. The server response was: 5.7.1 Unverified Sending Domain <hopeful.shop>
+2017-09-15 12:54:06.8636|ERROR|shop.Controllers.UserController|****** AverageStars ******* Mailbox unavailable. The server response was: 5.7.1 Unverified Sending Domain <hopeful.shop>
+2017-09-15 12:54:51.0402|ERROR|shop.Controllers.UserController|****** AverageStars ******* Mailbox unavailable. The server response was: 5.7.1 Unverified Sending Domain <hopeful.shop>
+2017-09-15 12:55:28.3929|ERROR|shop.Controllers.UserController|****** AverageStars ******* Mailbox unavailable. The server response was: 5.7.1 Unverified Sending Domain <hopeful.shop>
+2017-09-15 14:42:55.4601|ERROR|shop.Controllers.UserController|****** AverageStars ******* Value cannot be null.
+Parameter name: address
+2017-09-15 14:47:28.5469|ERROR|shop.Controllers.UserController|****** AverageStars ******* Mailbox unavailable. The server response was: 5.7.1 Unconfigured Sending Domain <gmail.com>

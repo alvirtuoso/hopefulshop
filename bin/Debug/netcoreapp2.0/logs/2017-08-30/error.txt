@@ -1,0 +1,7 @@
+2017-08-30 10:50:51.1506|ERROR|shop.Controllers.UserController|Table 'public.User' doesn't exist
+2017-08-30 11:03:21.3672|ERROR|shop.Controllers.UserController|Fatal error encountered during command execution.
+2017-08-30 11:05:26.8801|ERROR|shop.Controllers.UserController|Fatal error encountered during command execution.
+2017-08-30 11:39:37.0439|ERROR|shop.Controllers.DnsController|Connection must be valid and open.
+2017-08-30 11:41:27.6408|ERROR|shop.Controllers.DnsController|Table 'shop.Dns' doesn't exist
+2017-08-30 11:47:15.6844|ERROR|shop.Controllers.DnsController|Table 'shop.Dns' doesn't exist
+2017-08-30 11:47:47.7548|ERROR|shop.Controllers.DnsController|Table 'shop.Dns' doesn't exist

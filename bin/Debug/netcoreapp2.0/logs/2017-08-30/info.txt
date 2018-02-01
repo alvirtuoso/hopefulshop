@@ -1,0 +1,117 @@
+2017-08-30 10:49:40.4095|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 10:49:42.7097|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 10:49:42.9490|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2551.644ms
+2017-08-30 10:50:22.4893|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Index (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 10:50:51.1582|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value Table 'public.User' doesn't exist.
+2017-08-30 10:50:51.1599|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Index (shop) in 28703.673ms
+2017-08-30 10:52:32.2017|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 10:52:34.2852|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 10:52:34.5065|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2315.214ms
+2017-08-30 10:52:35.7601|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Index (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 10:52:48.7293|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value System.Collections.Generic.List`1[shop.Models.User].
+2017-08-30 10:52:48.8042|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Index (shop) in 13071.742ms
+2017-08-30 10:57:21.1587|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 10:57:23.2186|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 10:57:23.4609|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2308.578ms
+2017-08-30 10:58:29.9364|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 10:58:29.9860|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Index (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 10:58:30.2372|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value System.Collections.Generic.List`1[shop.Models.User].
+2017-08-30 10:58:30.3236|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Index (shop) in 376.158ms
+2017-08-30 10:59:04.1169|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 10:59:04.1188|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Index (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 10:59:04.3451|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value System.Collections.Generic.List`1[shop.Models.User].
+2017-08-30 10:59:04.3541|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Index (shop) in 235.781ms
+2017-08-30 10:59:31.8663|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:00:10.0711|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Index (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:00:10.3008|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value System.Collections.Generic.List`1[shop.Models.User].
+2017-08-30 11:00:10.3015|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Index (shop) in 230.419ms
+2017-08-30 11:01:41.3469|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:01:43.3915|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 11:01:43.6223|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2284.889ms
+2017-08-30 11:03:00.3657|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:03:00.6902|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Add (shop) with arguments (shop.Models.User) - ModelState is Valid
+2017-08-30 11:03:21.3735|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value Fatal error encountered during command execution..
+2017-08-30 11:03:21.3756|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Add (shop) in 20944.143ms
+2017-08-30 11:03:43.3360|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:03:43.3498|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Add (shop) with arguments (shop.Models.User) - ModelState is Valid
+2017-08-30 11:05:26.8932|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value Fatal error encountered during command execution..
+2017-08-30 11:05:26.8941|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Add (shop) in 103549.378ms
+2017-08-30 11:06:41.6088|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:06:43.6731|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 11:06:43.9119|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2297.634ms
+2017-08-30 11:06:54.8921|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:06:55.2592|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Add (shop) with arguments (shop.Models.User) - ModelState is Valid
+2017-08-30 11:07:12.0065|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-08-30 11:07:12.0317|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Add (shop) in 17073.011ms
+2017-08-30 11:09:32.8182|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:09:34.9230|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 11:09:35.1657|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2353.808ms
+2017-08-30 11:10:12.3406|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:10:12.6698|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Add (shop) with arguments (shop.Models.User) - ModelState is Valid
+2017-08-30 11:10:12.9984|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-08-30 11:10:13.0212|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Add (shop) in 616.096ms
+2017-08-30 11:10:46.8986|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:10:59.6014|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:10:59.6204|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Update (shop) with arguments (shop.Models.User) - ModelState is Valid
+2017-08-30 11:11:07.5992|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value False.
+2017-08-30 11:11:07.6266|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Update (shop) in 8012.789ms
+2017-08-30 11:12:59.5718|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:12:59.5763|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Update (shop) with arguments (shop.Models.User) - ModelState is Valid
+2017-08-30 11:13:09.3275|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value True.
+2017-08-30 11:13:09.3395|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Update (shop) in 9766.855ms
+2017-08-30 11:14:10.9886|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:14:10.9946|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Update (shop) with arguments (shop.Models.User) - ModelState is Valid
+2017-08-30 11:14:11.2257|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value True.
+2017-08-30 11:14:11.2343|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Update (shop) in 244.931ms
+2017-08-30 11:15:08.6404|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (tester@mail.com) - ModelState is Valid
+2017-08-30 11:15:08.8855|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-08-30 11:15:08.8953|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 256.199ms
+2017-08-30 11:15:40.8252|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.IsExistingUser (shop) with arguments (tester@mail.com) - ModelState is Valid
+2017-08-30 11:15:41.0718|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value True.
+2017-08-30 11:15:41.0806|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.IsExistingUser (shop) in 255.482ms
+2017-08-30 11:15:45.2023|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.IsExistingUser (shop) with arguments (go123@mail.com) - ModelState is Valid
+2017-08-30 11:15:45.4339|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value True.
+2017-08-30 11:15:45.4422|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.IsExistingUser (shop) in 240.053ms
+2017-08-30 11:15:52.9114|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.IsExistingUser (shop) with arguments (go23@mail.com) - ModelState is Valid
+2017-08-30 11:15:53.1441|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value False.
+2017-08-30 11:15:53.1530|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.IsExistingUser (shop) in 241.694ms
+2017-08-30 11:37:56.6300|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:37:58.6776|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 11:37:58.9027|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2277.126ms
+2017-08-30 11:39:31.2819|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:39:33.3975|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 11:39:33.6334|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2362.413ms
+2017-08-30 11:39:36.0152|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.Index (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:39:37.0493|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value Connection must be valid and open..
+2017-08-30 11:39:37.0504|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.Index (shop) in 1065.663ms
+2017-08-30 11:41:19.5741|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:41:21.6644|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 11:41:21.9133|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2347.377ms
+2017-08-30 11:41:26.3992|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.Index (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:41:27.6700|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value Table 'shop.Dns' doesn't exist.
+2017-08-30 11:41:27.6722|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.Index (shop) in 1305.067ms
+2017-08-30 11:47:05.9722|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:47:07.9891|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 11:47:08.2308|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2260.764ms
+2017-08-30 11:47:14.3012|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:47:14.3420|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.Index (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:47:15.6892|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value Table 'shop.Dns' doesn't exist.
+2017-08-30 11:47:15.6902|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.Index (shop) in 1383.707ms
+2017-08-30 11:47:47.1395|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:47:47.1483|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.Index (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:47:47.7628|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value Table 'shop.Dns' doesn't exist.
+2017-08-30 11:47:47.7635|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.Index (shop) in 615.368ms
+2017-08-30 11:48:31.8137|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 11:48:33.7572|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 11:48:33.9600|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2157.755ms
+2017-08-30 11:48:46.8617|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 11:48:47.1747|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.Add (shop) with arguments (shop.Models.Dns) - ModelState is Valid
+2017-08-30 11:49:26.2397|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value True.
+2017-08-30 11:49:26.2580|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.Add (shop) in 39332.226ms
+2017-08-30 14:22:35.2504|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-08-30 14:22:37.3436|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-08-30 14:22:37.5726|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2329.515ms
+2017-08-30 14:23:05.5656|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-08-30 14:23:05.8888|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.Add (shop) with arguments (shop.Models.Dns) - ModelState is Valid
+2017-08-30 14:23:06.4346|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value True.
+2017-08-30 14:23:06.4380|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.Add (shop) in 803.188ms

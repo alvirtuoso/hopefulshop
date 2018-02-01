@@ -1,0 +1,13 @@
+2017-09-24 13:52:59.5455|ERROR|AmazonController|*****GetItems ***** One or more errors occurred. (The remote server returned an error: (400) Bad Request.)
+2017-09-24 13:53:45.5054|ERROR|shop.Controllers.AccountController|Sequence contains no elements
+2017-09-24 13:54:05.4936|ERROR|AmazonController|*****GetItems ***** One or more errors occurred. (The remote server returned an error: (400) Bad Request.)
+2017-09-24 13:55:32.3881|ERROR|AmazonController|*****GetItems ***** One or more errors occurred. (The remote server returned an error: (400) Bad Request.)
+2017-09-24 13:56:18.2685|ERROR|AmazonController|*****GetItems ***** One or more errors occurred. (The remote server returned an error: (400) Bad Request.)
+2017-09-24 13:56:24.6044|ERROR|AmazonController|*****GetItems ***** One or more errors occurred. (The remote server returned an error: (400) Bad Request.)
+2017-09-24 13:57:29.1460|ERROR|AmazonController|*****GetItems ***** One or more errors occurred. (The remote server returned an error: (400) Bad Request.)
+2017-09-24 13:58:30.8616|ERROR|AmazonController|*****GetItems ***** One or more errors occurred. (The remote server returned an error: (400) Bad Request.)
+2017-09-24 13:59:39.7109|ERROR|AmazonController|*****GetItems ***** One or more errors occurred. (The remote server returned an error: (400) Bad Request.)
+2017-09-24 14:56:52.3689|ERROR|AmazonController|******* AddToCart****** Object reference not set to an instance of an object.
+2017-09-24 20:53:04.6987|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request
+2017-09-24 20:55:44.7252|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request
+2017-09-24 20:55:44.7252|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request

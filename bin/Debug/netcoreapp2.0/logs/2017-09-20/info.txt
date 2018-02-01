@@ -1,0 +1,251 @@
+2017-09-20 10:50:26.7311|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-20 10:50:29.1364|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-20 10:50:29.4594|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2674.39ms
+2017-09-20 10:53:28.3234|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 10:53:28.5531|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByAmazonId (shop) with arguments (undefined) - ModelState is Valid
+2017-09-20 10:53:38.0625|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 10:53:38.1002|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 10:53:55.2843|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-20 10:53:55.2934|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByAmazonId (shop) in 26861.114ms
+2017-09-20 10:53:55.7013|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 17596.55ms
+2017-09-20 10:57:05.5669|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-20 10:57:07.6005|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-20 10:57:07.8553|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2293.318ms
+2017-09-20 10:57:50.9262|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 10:57:51.1579|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByAmazonId (shop) with arguments (undefined) - ModelState is Valid
+2017-09-20 10:57:55.7274|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 10:57:55.7837|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 10:58:13.3289|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-20 10:58:13.3309|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByAmazonId (shop) in 22301.414ms
+2017-09-20 10:58:13.8455|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 18051.716ms
+2017-09-20 10:58:58.6285|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-20 10:59:00.6490|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-20 10:59:00.8838|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2256.821ms
+2017-09-20 10:59:40.5664|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 10:59:40.8873|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 10:59:40.9158|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByAmazonId (shop) with arguments (undefined) - ModelState is Valid
+2017-09-20 10:59:45.2524|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:00:13.4294|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-20 11:00:13.4326|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByAmazonId (shop) in 32749.608ms
+2017-09-20 11:00:14.0320|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 11:00:14.4079|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 11:00:14.4383|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 29179.031ms
+2017-09-20 11:01:24.4921|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-20 11:01:26.5396|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-20 11:01:26.7818|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2302.659ms
+2017-09-20 11:01:35.8557|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:01:36.0840|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByAmazonId (shop) with arguments (undefined) - ModelState is Valid
+2017-09-20 11:01:52.8669|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:01:52.8675|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value .
+2017-09-20 11:01:52.8730|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByAmazonId (shop) in 16922.231ms
+2017-09-20 11:01:52.8989|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:01:53.3246|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 11:01:53.6918|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 11:01:53.7250|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 821.853ms
+2017-09-20 11:08:36.0612|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:08:36.0624|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:08:36.1190|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 11:08:36.4005|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:08:37.3447|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 11:08:37.3551|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 1239.463ms
+2017-09-20 11:08:37.4958|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 11:08:37.7984|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 11:08:37.8073|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 1405.773ms
+2017-09-20 11:24:46.5003|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-20 11:24:48.6352|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-20 11:24:48.8670|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2373.075ms
+2017-09-20 11:25:48.6571|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:25:48.6571|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:25:48.9141|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:25:49.0165|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 11:25:49.7468|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 11:25:50.2111|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 11:25:50.2622|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 11:25:50.2933|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 1437.533ms
+2017-09-20 11:25:50.3188|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 1399.023ms
+2017-09-20 11:39:12.5542|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-20 11:39:14.6217|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-20 11:39:14.8511|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2307.641ms
+2017-09-20 11:39:39.3545|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:39:39.3956|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:39:39.6507|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 11:39:39.6787|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 11:39:40.0064|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 11:39:40.1635|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 628.069ms
+2017-09-20 11:39:41.0419|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 11:39:41.4154|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 11:39:41.4291|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 1745.118ms
+2017-09-20 12:21:29.0358|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:21:29.0367|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:21:29.0665|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:21:29.0692|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:21:30.1698|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:21:30.1800|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 1114.023ms
+2017-09-20 12:21:30.3506|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:21:30.6703|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:21:30.6795|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 1611.428ms
+2017-09-20 12:22:18.5807|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:22:18.5807|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:22:18.6420|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:22:18.6667|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:22:18.8733|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:22:18.8747|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 260.379ms
+2017-09-20 12:22:18.9062|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:22:19.2145|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:22:19.2231|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 555.469ms
+2017-09-20 12:22:49.3414|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:22:49.3953|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:22:49.3973|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:22:49.4176|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:22:49.6233|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:22:49.6252|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 228.078ms
+2017-09-20 12:22:49.6759|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:22:49.9976|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:22:49.9986|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 580.488ms
+2017-09-20 12:23:31.3616|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:23:31.3623|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:23:31.3676|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:23:31.4283|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:23:31.6031|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:23:31.6031|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 236.175ms
+2017-09-20 12:23:31.6577|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:23:31.9819|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:23:31.9903|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 561.471ms
+2017-09-20 12:24:08.1034|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:24:08.1246|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (tipo) - ModelState is Valid
+2017-09-20 12:24:17.6299|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:24:17.6793|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:24:17.7080|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:24:17.7080|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:24:17.9390|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:24:35.2627|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:24:35.2627|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:24:35.2646|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 17555.878ms
+2017-09-20 12:24:35.3278|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 27205.894ms
+2017-09-20 12:24:36.2404|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-20 12:24:36.2421|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 18533.996ms
+2017-09-20 12:25:25.5101|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:25:25.5113|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (tipo) - ModelState is Valid
+2017-09-20 12:25:53.2938|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:25:53.3222|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:25:53.3222|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:25:53.3567|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 27819.927ms
+2017-09-20 12:25:53.4278|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:25:53.5149|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:25:53.7344|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:25:53.7365|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 405.27ms
+2017-09-20 12:25:53.7954|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:25:54.1003|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:25:54.1094|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 593.6ms
+2017-09-20 12:28:55.2968|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:28:55.3046|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (tipo) - ModelState is Valid
+2017-09-20 12:28:55.5451|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:28:55.5463|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 243.848ms
+2017-09-20 12:28:57.5872|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:28:57.5872|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (tipo) - ModelState is Valid
+2017-09-20 12:28:57.8249|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:28:57.8254|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 237.673ms
+2017-09-20 12:28:58.4696|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:28:58.4864|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:28:58.4874|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:28:58.6964|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:28:58.7232|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:28:58.7244|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 237.311ms
+2017-09-20 12:28:58.9428|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:28:59.2622|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:28:59.2645|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 567.082ms
+2017-09-20 12:29:19.4775|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:29:19.4945|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:29:19.4952|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:29:19.5525|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:29:19.7360|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:29:19.7360|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 241.546ms
+2017-09-20 12:29:19.7873|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:29:20.0932|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:29:20.0932|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 540.749ms
+2017-09-20 12:29:50.1028|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:29:50.1362|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:29:50.2128|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:29:50.4452|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:29:50.4452|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:29:50.4471|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 236.269ms
+2017-09-20 12:29:50.6885|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:29:51.0273|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:29:51.0273|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 582.181ms
+2017-09-20 12:29:59.0955|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:29:59.0963|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:29:59.1252|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:29:59.1328|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:29:59.3502|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:29:59.3632|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:29:59.3632|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 238.116ms
+2017-09-20 12:29:59.7110|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:29:59.7201|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 586.785ms
+2017-09-20 12:30:22.2842|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:30:22.2928|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (catholic) - ModelState is Valid
+2017-09-20 12:30:22.5212|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:30:22.5212|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 229.336ms
+2017-09-20 12:30:22.9800|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:30:22.9812|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:30:23.0028|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:30:23.0370|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:30:23.2354|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:30:23.2354|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 233.262ms
+2017-09-20 12:30:23.2776|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:30:23.5822|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:30:23.5900|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 552.452ms
+2017-09-20 12:32:08.1393|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:32:08.1467|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (catholic) - ModelState is Valid
+2017-09-20 12:32:08.3745|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:32:08.3754|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 228.978ms
+2017-09-20 12:32:15.7737|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:32:15.7817|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (catholic) - ModelState is Valid
+2017-09-20 12:32:16.0061|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:32:16.0071|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 225.525ms
+2017-09-20 12:32:16.6262|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:32:16.6273|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:32:16.6676|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:32:16.8034|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:32:16.8960|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:32:16.8971|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 229.745ms
+2017-09-20 12:32:17.0602|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:32:17.3668|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:32:17.3674|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 561.576ms
+2017-09-20 12:35:09.8558|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:35:09.8570|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (catholic) - ModelState is Valid
+2017-09-20 12:35:10.1118|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:35:10.1200|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 263.17ms
+2017-09-20 12:35:16.2430|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:35:16.2443|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (catholic) - ModelState is Valid
+2017-09-20 12:35:16.4740|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:35:16.4740|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 230.741ms
+2017-09-20 12:35:16.9590|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:35:16.9590|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:35:16.9711|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:35:17.0073|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:35:17.1984|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:35:17.1984|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 227.934ms
+2017-09-20 12:35:17.2486|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:35:17.5669|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:35:17.5675|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 559.686ms
+2017-09-20 12:37:08.5424|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:37:08.5477|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (catholic) - ModelState is Valid
+2017-09-20 12:37:08.7939|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:37:08.8026|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 256.596ms
+2017-09-20 12:37:18.4627|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:37:18.4714|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (catholic) - ModelState is Valid
+2017-09-20 12:37:18.7003|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:37:18.7082|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 236.99ms
+2017-09-20 12:37:18.7735|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:37:18.7341|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:37:18.8152|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-20 12:37:19.0435|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-20 12:37:19.0444|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 249.87ms
+2017-09-20 12:37:19.1743|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:37:19.4145|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-20 12:37:19.7212|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-20 12:37:19.7270|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 544.277ms
+2017-09-20 12:39:40.1188|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-20 12:39:40.1202|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByUrlSubname (shop) with arguments (catholic) - ModelState is Valid
+2017-09-20 12:39:40.3554|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-20 12:39:40.3554|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByUrlSubname (shop) in 235.878ms

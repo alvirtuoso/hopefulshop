@@ -1,0 +1,2 @@
+2017-09-15 12:29:20.0727|WARN|Microsoft.AspNetCore.Server.Kestrel|Heartbeat took longer than "00:00:01" at "09/15/2017 19:29:19 +00:00".
+2017-09-15 12:34:32.9774|WARN|Microsoft.AspNetCore.Server.Kestrel|Heartbeat took longer than "00:00:01" at "09/15/2017 19:34:32 +00:00".

@@ -1,0 +1,815 @@
+2017-09-24 13:50:27.7760|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-24 13:50:30.3737|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:50:30.6292|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2847.776ms
+2017-09-24 13:52:08.8975|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-24 13:52:09.1624|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:52:09.1713|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 274.335ms
+2017-09-24 13:52:58.1746|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (vtech, 1, us) - ModelState is Valid
+2017-09-24 13:52:59.5503|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:52:59.5518|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 1465.669ms
+2017-09-24 13:53:29.2009|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-24 13:53:29.4467|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:53:29.4566|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 255.707ms
+2017-09-24 13:53:43.4041|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.AccountController.Get (shop) with arguments (5) - ModelState is Valid
+2017-09-24 13:53:45.5141|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:53:45.5141|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.AccountController.Get (shop) in 2111.506ms
+2017-09-24 13:54:04.6813|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (irulu, 1, us) - ModelState is Valid
+2017-09-24 13:54:05.5023|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:54:05.5023|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 821.839ms
+2017-09-24 13:54:58.2536|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-24 13:55:08.9850|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:55:08.9867|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 10733.927ms
+2017-09-24 13:55:31.4613|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (irulu, 1, us) - ModelState is Valid
+2017-09-24 13:55:32.3963|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:55:32.3963|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 936.015ms
+2017-09-24 13:56:11.4496|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-24 13:56:15.8833|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:56:16.1463|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 4698.58ms
+2017-09-24 13:56:16.9040|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (irulu, 1, us) - ModelState is Valid
+2017-09-24 13:56:18.2710|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:56:18.2724|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 1465.141ms
+2017-09-24 13:56:23.5049|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (irulu, 1, us) - ModelState is Valid
+2017-09-24 13:56:24.6132|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:56:24.6140|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 1109.478ms
+2017-09-24 13:56:55.4318|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (irulu, 1, us) - ModelState is Valid
+2017-09-24 13:57:29.1460|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:57:29.1473|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 33715.808ms
+2017-09-24 13:57:49.4219|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (irulu, 1, us) - ModelState is Valid
+2017-09-24 13:58:30.9357|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:58:30.9367|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 41515.085ms
+2017-09-24 13:58:54.2282|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (irulu, 1, us) - ModelState is Valid
+2017-09-24 13:59:32.3379|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 13:59:32.3607|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 13:59:39.7192|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 13:59:39.7192|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 45494.894ms
+2017-09-24 13:59:41.1574|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-24 13:59:41.5759|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-24 13:59:41.6073|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 9238.45ms
+2017-09-24 14:15:36.0534|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-24 14:15:42.5682|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 14:15:42.8514|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 6809.622ms
+2017-09-24 14:16:49.5255|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (irulu, 1, us) - ModelState is Valid
+2017-09-24 14:16:57.4681|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value System.Collections.Generic.List`1[shop.Models.Item].
+2017-09-24 14:16:57.6153|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 8174.234ms
+2017-09-24 14:17:47.4514|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:17:47.5044|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:17:47.5191|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-24 14:17:47.5265|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:17:47.8962|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-24 14:17:47.9072|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 394.877ms
+2017-09-24 14:17:49.0758|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-24 14:17:49.5111|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-24 14:17:49.5310|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 1998.855ms
+2017-09-24 14:19:13.6442|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:13.6456|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:13.6712|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-24 14:19:13.6885|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:13.9788|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-24 14:19:13.9885|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 322.815ms
+2017-09-24 14:19:14.0179|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-24 14:19:14.4224|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-24 14:19:14.4230|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 733.843ms
+2017-09-24 14:19:21.6141|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:21.6151|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (iphone 7 plus case, 1, US) - ModelState is Valid
+2017-09-24 14:19:22.7523|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value System.Collections.Generic.List`1[shop.Models.Item].
+2017-09-24 14:19:22.7615|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 1146.869ms
+2017-09-24 14:19:23.1343|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:23.1363|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:23.1594|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01KK8TZMU&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=ydUXhIderx1IvQpwNj0eaKDUDPG3%252FSPGU9iczBEESgQ%253D) - ModelState is Valid
+2017-09-24 14:19:23.2765|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:23.2967|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01L1F1OV6&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=bSJIQqy%252BMNtbIATPoH8TGQH3A8slL6tz8MNq%252B1b3u%252BY%253D) - ModelState is Valid
+2017-09-24 14:19:23.3610|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:23.4012|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01N9D7DP2&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=AQwN8VrUGny1tFk3NUZN7b1swkCT%252BCJSUKt8Ng2ZM7k%253D) - ModelState is Valid
+2017-09-24 14:19:23.4012|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:23.4012|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073TDHZK2&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=wqUrh44jgLBnDKlG%252FsWzbQE2IPt4segNFrQaPRKDslY%253D) - ModelState is Valid
+2017-09-24 14:19:23.4023|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01LXZDPDR&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=aOC41z%252F0lbjaGgFbGw8kxfRC6tNzA%252FsIo2yjFfV1Vos%253D) - ModelState is Valid
+2017-09-24 14:19:23.4614|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:23.5166|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06XQKG2X6&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=dUBYdwJOh3hI8u%252B%252BgE35E1iRmzoI90Rqk5yY1YcCn3c%253D) - ModelState is Valid
+2017-09-24 14:19:24.1659|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.0 out of 5 stars.
+2017-09-24 14:19:24.1664|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 764.209ms
+2017-09-24 14:19:24.1868|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:24.2313|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072R4RD3R&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=cHJZGJCjEMpUGzQbu64LLt1XIQ1g1glhlijVlecGBik%253D) - ModelState is Valid
+2017-09-24 14:19:24.5937|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:19:24.6035|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1306.891ms
+2017-09-24 14:19:24.6551|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:24.6643|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01LXNZSUH&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=Ix9S6unaUXWBFMvGDLBCwbVmAtkxXhvHowEN7cSVmVI%253D) - ModelState is Valid
+2017-09-24 14:19:24.7413|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.4 out of 5 stars.
+2017-09-24 14:19:24.7674|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:24.7674|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1366.394ms
+2017-09-24 14:19:24.7910|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1631.799ms
+2017-09-24 14:19:24.8556|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:24.8790|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06XSW2GW9&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=Pq0V%252FbhMbMmRjF6nN2Y4EBlHclnbn%252BY4Zsaz0zbIZnE%253D) - ModelState is Valid
+2017-09-24 14:19:24.8556|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:24.9391|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01K1YIRWM&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=LSv%252FvvgcmH2BRraMn8JonFPBAglfKqzVariVzfSACjI%253D) - ModelState is Valid
+2017-09-24 14:19:24.9658|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.8 out of 5 stars.
+2017-09-24 14:19:25.0290|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1527.151ms
+2017-09-24 14:19:25.9131|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:25.9790|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01LXZDPDR&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=aOC41z%252F0lbjaGgFbGw8kxfRC6tNzA%252FsIo2yjFfV1Vos%253D) - ModelState is Valid
+2017-09-24 14:19:26.0061|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.3 out of 5 stars.
+2017-09-24 14:19:26.0191|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 2617.818ms
+2017-09-24 14:19:26.0660|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:26.0722|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01L1F1OV6&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=bSJIQqy%252BMNtbIATPoH8TGQH3A8slL6tz8MNq%252B1b3u%252BY%253D) - ModelState is Valid
+2017-09-24 14:19:26.2721|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:26.2945|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.4 out of 5 stars.
+2017-09-24 14:19:26.3157|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 2088.02ms
+2017-09-24 14:19:26.3603|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1698.816ms
+2017-09-24 14:19:26.4513|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:26.4562|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:26.4826|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01N9D7DP2&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=AQwN8VrUGny1tFk3NUZN7b1swkCT%252BCJSUKt8Ng2ZM7k%253D) - ModelState is Valid
+2017-09-24 14:19:26.4826|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01KK8TZMU&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=ydUXhIderx1IvQpwNj0eaKDUDPG3%252FSPGU9iczBEESgQ%253D) - ModelState is Valid
+2017-09-24 14:19:26.5329|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 2.6 out of 5 stars.
+2017-09-24 14:19:26.5841|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1705.302ms
+2017-09-24 14:19:26.6586|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:26.6593|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06XQKG2X6&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=dUBYdwJOh3hI8u%252B%252BgE35E1iRmzoI90Rqk5yY1YcCn3c%253D) - ModelState is Valid
+2017-09-24 14:19:26.7106|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:26.7112|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1772.313ms
+2017-09-24 14:19:26.7297|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:26.7304|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073TDHZK2&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=wqUrh44jgLBnDKlG%252FsWzbQE2IPt4segNFrQaPRKDslY%253D) - ModelState is Valid
+2017-09-24 14:19:27.1332|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.0 out of 5 stars.
+2017-09-24 14:19:27.1417|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1163.146ms
+2017-09-24 14:19:27.1623|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:27.1623|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072R4RD3R&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=cHJZGJCjEMpUGzQbu64LLt1XIQ1g1glhlijVlecGBik%253D) - ModelState is Valid
+2017-09-24 14:19:27.3935|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.8 out of 5 stars.
+2017-09-24 14:19:27.4366|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 777.318ms
+2017-09-24 14:19:27.5271|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.4 out of 5 stars.
+2017-09-24 14:19:27.5271|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:27.5633|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1081.029ms
+2017-09-24 14:19:27.5925|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01LXNZSUH&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=Ix9S6unaUXWBFMvGDLBCwbVmAtkxXhvHowEN7cSVmVI%253D) - ModelState is Valid
+2017-09-24 14:19:27.6509|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:19:27.6917|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1624.933ms
+2017-09-24 14:19:27.6917|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:27.7700|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:27.7700|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06XSW2GW9&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=Pq0V%252FbhMbMmRjF6nN2Y4EBlHclnbn%252BY4Zsaz0zbIZnE%253D) - ModelState is Valid
+2017-09-24 14:19:27.7700|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01K1YIRWM&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=LSv%252FvvgcmH2BRraMn8JonFPBAglfKqzVariVzfSACjI%253D) - ModelState is Valid
+2017-09-24 14:19:27.8018|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:27.8321|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1349.275ms
+2017-09-24 14:19:27.9404|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:27.9810|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01LXZDPDR&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=aOC41z%252F0lbjaGgFbGw8kxfRC6tNzA%252FsIo2yjFfV1Vos%253D) - ModelState is Valid
+2017-09-24 14:19:28.0573|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.3 out of 5 stars.
+2017-09-24 14:19:28.0573|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1327.386ms
+2017-09-24 14:19:28.0791|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:28.0791|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06XQKG2X6&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=dUBYdwJOh3hI8u%252B%252BgE35E1iRmzoI90Rqk5yY1YcCn3c%253D) - ModelState is Valid
+2017-09-24 14:19:28.4317|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:28.4402|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1277.565ms
+2017-09-24 14:19:28.4849|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:28.4917|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01N9D7DP2&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=AQwN8VrUGny1tFk3NUZN7b1swkCT%252BCJSUKt8Ng2ZM7k%253D) - ModelState is Valid
+2017-09-24 14:19:28.8695|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 2.6 out of 5 stars.
+2017-09-24 14:19:28.9416|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1171.282ms
+2017-09-24 14:19:28.9757|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:29.0146|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01L1F1OV6&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=bSJIQqy%252BMNtbIATPoH8TGQH3A8slL6tz8MNq%252B1b3u%252BY%253D) - ModelState is Valid
+2017-09-24 14:19:29.1140|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.0 out of 5 stars.
+2017-09-24 14:19:29.1182|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1141.03ms
+2017-09-24 14:19:29.1564|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:29.1786|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01KK8TZMU&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=ydUXhIderx1IvQpwNj0eaKDUDPG3%252FSPGU9iczBEESgQ%253D) - ModelState is Valid
+2017-09-24 14:19:29.2095|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:29.2241|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1449.298ms
+2017-09-24 14:19:29.2603|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:29.2613|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073TDHZK2&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=wqUrh44jgLBnDKlG%252FsWzbQE2IPt4segNFrQaPRKDslY%253D) - ModelState is Valid
+2017-09-24 14:19:29.3084|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.4 out of 5 stars.
+2017-09-24 14:19:29.3475|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1755.167ms
+2017-09-24 14:19:29.3965|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.8 out of 5 stars.
+2017-09-24 14:19:29.4194|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1339.912ms
+2017-09-24 14:19:29.4310|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:29.4549|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:29.4550|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072R4RD3R&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=cHJZGJCjEMpUGzQbu64LLt1XIQ1g1glhlijVlecGBik%253D) - ModelState is Valid
+2017-09-24 14:19:29.4799|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06XSW2GW9&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=Pq0V%252FbhMbMmRjF6nN2Y4EBlHclnbn%252BY4Zsaz0zbIZnE%253D) - ModelState is Valid
+2017-09-24 14:19:29.5310|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.4 out of 5 stars.
+2017-09-24 14:19:29.5920|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1100.37ms
+2017-09-24 14:19:29.6700|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:29.6700|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01LXZDPDR&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=aOC41z%252F0lbjaGgFbGw8kxfRC6tNzA%252FsIo2yjFfV1Vos%253D) - ModelState is Valid
+2017-09-24 14:19:30.2678|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:19:30.2893|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1274.806ms
+2017-09-24 14:19:30.3462|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:30.3720|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01K1YIRWM&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=LSv%252FvvgcmH2BRraMn8JonFPBAglfKqzVariVzfSACjI%253D) - ModelState is Valid
+2017-09-24 14:19:30.4563|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.3 out of 5 stars.
+2017-09-24 14:19:30.5198|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1258.669ms
+2017-09-24 14:19:30.5985|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:30.6238|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:30.6296|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01LXNZSUH&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=Ix9S6unaUXWBFMvGDLBCwbVmAtkxXhvHowEN7cSVmVI%253D) - ModelState is Valid
+2017-09-24 14:19:30.6337|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1455.383ms
+2017-09-24 14:19:30.7675|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:30.8165|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:30.8609|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06XQKG2X6&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=dUBYdwJOh3hI8u%252B%252BgE35E1iRmzoI90Rqk5yY1YcCn3c%253D) - ModelState is Valid
+2017-09-24 14:19:30.8699|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1417.506ms
+2017-09-24 14:19:30.9853|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:31.0313|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 2.6 out of 5 stars.
+2017-09-24 14:19:31.0313|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01N9D7DP2&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=AQwN8VrUGny1tFk3NUZN7b1swkCT%252BCJSUKt8Ng2ZM7k%253D) - ModelState is Valid
+2017-09-24 14:19:31.0591|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1579.374ms
+2017-09-24 14:19:31.2104|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:31.2110|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01L1F1OV6&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=bSJIQqy%252BMNtbIATPoH8TGQH3A8slL6tz8MNq%252B1b3u%252BY%253D) - ModelState is Valid
+2017-09-24 14:19:31.2567|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.0 out of 5 stars.
+2017-09-24 14:19:31.2665|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1595.985ms
+2017-09-24 14:19:31.2857|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:31.2862|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073TDHZK2&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=wqUrh44jgLBnDKlG%252FsWzbQE2IPt4segNFrQaPRKDslY%253D) - ModelState is Valid
+2017-09-24 14:19:31.6419|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:31.6504|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1278.745ms
+2017-09-24 14:19:31.6921|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:31.7016|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01KK8TZMU&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=ydUXhIderx1IvQpwNj0eaKDUDPG3%252FSPGU9iczBEESgQ%253D) - ModelState is Valid
+2017-09-24 14:19:31.9212|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.4 out of 5 stars.
+2017-09-24 14:19:32.0107|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1385.764ms
+2017-09-24 14:19:32.0366|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.8 out of 5 stars.
+2017-09-24 14:19:32.0850|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1227.319ms
+2017-09-24 14:19:32.1062|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:32.1062|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:32.1125|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072R4RD3R&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=cHJZGJCjEMpUGzQbu64LLt1XIQ1g1glhlijVlecGBik%253D) - ModelState is Valid
+2017-09-24 14:19:32.1188|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06XSW2GW9&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=Pq0V%252FbhMbMmRjF6nN2Y4EBlHclnbn%252BY4Zsaz0zbIZnE%253D) - ModelState is Valid
+2017-09-24 14:19:32.3415|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:19:32.3169|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.4 out of 5 stars.
+2017-09-24 14:19:32.3662|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1155.336ms
+2017-09-24 14:19:32.3964|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1359.646ms
+2017-09-24 14:19:32.4595|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:32.4595|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:19:32.4600|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01K1YIRWM&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=LSv%252FvvgcmH2BRraMn8JonFPBAglfKqzVariVzfSACjI%253D) - ModelState is Valid
+2017-09-24 14:19:32.4600|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B01LXNZSUH&atag=glow0c1-20&exp=2017-09-25T21%3A09%3A07Z&v=2&sig=Ix9S6unaUXWBFMvGDLBCwbVmAtkxXhvHowEN7cSVmVI%253D) - ModelState is Valid
+2017-09-24 14:19:32.4853|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.3 out of 5 stars.
+2017-09-24 14:19:32.5364|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1242.393ms
+2017-09-24 14:19:32.6539|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:32.6543|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 952.836ms
+2017-09-24 14:19:33.0673|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:33.0759|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 963.48ms
+2017-09-24 14:19:33.1833|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.5 out of 5 stars.
+2017-09-24 14:19:33.2006|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 740.676ms
+2017-09-24 14:19:33.3396|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.4 out of 5 stars.
+2017-09-24 14:19:33.3497|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 889.364ms
+2017-09-24 14:19:33.4060|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 2.6 out of 5 stars.
+2017-09-24 14:19:33.4060|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1287.666ms
+2017-09-24 14:46:41.4383|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-24 14:46:43.7134|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 14:46:43.9476|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2519.268ms
+2017-09-24 14:46:58.9083|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:46:59.0514|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (irulu tablet, 1, US) - ModelState is Valid
+2017-09-24 14:47:00.1544|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value System.Collections.Generic.List`1[shop.Models.Item].
+2017-09-24 14:47:00.3138|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 1337.963ms
+2017-09-24 14:47:01.0010|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:01.0257|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:01.0282|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:01.0292|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QTSNKY&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=X1mEXoN6VgCtPHH5Jnow8mdZhMskf5tVdGUfgr8CiLM%253D) - ModelState is Valid
+2017-09-24 14:47:01.0312|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06Y3YT29T&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=OcjCHGECh8g8ofRI9hjZmnURf14TGfTwBS%252FTq6jOQgw%253D) - ModelState is Valid
+2017-09-24 14:47:01.0442|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:01.0684|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072JM6J9N&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=yuodqARpze1EMynyfS5BRPXukfq9c2Jwg8Qx4Zf9Tm4%253D) - ModelState is Valid
+2017-09-24 14:47:01.0971|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B00WS0I1O2&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=DXI%252BjJBHUZFgxyFWP4te8efJj2H3hcteC4haSVy0TI8%253D) - ModelState is Valid
+2017-09-24 14:47:01.0971|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:01.1223|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073W3V7W3&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=75YIW2llslSGoCaWGSbs9wXqNFhPUUrACwcHW1I%252BOUw%253D) - ModelState is Valid
+2017-09-24 14:47:01.9250|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:01.9250|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QCP6X8&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=CPzhA2wFxKsV9nZr0i2ux3wkIwb2adb4re6%252FHgsSeH0%253D) - ModelState is Valid
+2017-09-24 14:47:03.2156|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:03.2161|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 2187.227ms
+2017-09-24 14:47:03.2156|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 14:47:03.2156|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:03.2451|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 14:47:03.3232|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 2279.078ms
+2017-09-24 14:47:03.3232|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 2294.739ms
+2017-09-24 14:47:03.2996|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 2202.528ms
+2017-09-24 14:47:03.4097|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.0 out of 5 stars.
+2017-09-24 14:47:03.4251|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:03.4660|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 2367.551ms
+2017-09-24 14:47:03.4731|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073QHYCF7&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=FjaKN2xKlS55bgqZg8JYBG1NgJdh2QGTa%252Fq4bJ4mXvs%253D) - ModelState is Valid
+2017-09-24 14:47:03.4251|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:03.5154|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B00URGA106&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=iNUY5RgdQZB8bf9Alz61LaqVITGCRzqlfEZWXpJ9%252BkY%253D) - ModelState is Valid
+2017-09-24 14:47:03.5220|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:03.5220|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QTSNKY&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=X1mEXoN6VgCtPHH5Jnow8mdZhMskf5tVdGUfgr8CiLM%253D) - ModelState is Valid
+2017-09-24 14:47:03.2756|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:03.4656|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:03.2156|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:03.5869|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073ZDZXFB&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=v9VwUS4kf%252BQma0UodWnG4wyG7UurXGOUWPPBGq9zNk4%253D) - ModelState is Valid
+2017-09-24 14:47:03.5880|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1662.47ms
+2017-09-24 14:47:03.5583|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B071GKCKP8&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=E00VGp987ceM4jm%252BPgKD8b9z70hWevpCwiheTPUXT7M%253D) - ModelState is Valid
+2017-09-24 14:47:03.6499|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:03.6596|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06Y3YT29T&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=OcjCHGECh8g8ofRI9hjZmnURf14TGfTwBS%252FTq6jOQgw%253D) - ModelState is Valid
+2017-09-24 14:47:04.5700|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value .
+2017-09-24 14:47:04.6111|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 998.803ms
+2017-09-24 14:47:04.7279|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:04.7746|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:04.8210|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:04.8210|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072JM6J9N&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=yuodqARpze1EMynyfS5BRPXukfq9c2Jwg8Qx4Zf9Tm4%253D) - ModelState is Valid
+2017-09-24 14:47:04.9010|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1378.629ms
+2017-09-24 14:47:04.8318|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1358.277ms
+2017-09-24 14:47:04.9445|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 14:47:04.9955|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1486.433ms
+2017-09-24 14:47:04.8746|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:05.0225|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1486.853ms
+2017-09-24 14:47:05.0225|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:05.0412|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073W3V7W3&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=75YIW2llslSGoCaWGSbs9wXqNFhPUUrACwcHW1I%252BOUw%253D) - ModelState is Valid
+2017-09-24 14:47:05.0412|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:05.0214|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:05.0490|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073ZDZXFB&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=v9VwUS4kf%252BQma0UodWnG4wyG7UurXGOUWPPBGq9zNk4%253D) - ModelState is Valid
+2017-09-24 14:47:05.0214|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:05.0733|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QCP6X8&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=CPzhA2wFxKsV9nZr0i2ux3wkIwb2adb4re6%252FHgsSeH0%253D) - ModelState is Valid
+2017-09-24 14:47:05.0947|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B00WS0I1O2&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=DXI%252BjJBHUZFgxyFWP4te8efJj2H3hcteC4haSVy0TI8%253D) - ModelState is Valid
+2017-09-24 14:47:05.2646|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 14:47:05.2725|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1621.977ms
+2017-09-24 14:47:05.2941|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:05.2941|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073QHYCF7&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=FjaKN2xKlS55bgqZg8JYBG1NgJdh2QGTa%252Fq4bJ4mXvs%253D) - ModelState is Valid
+2017-09-24 14:47:05.9890|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:06.0012|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1204.409ms
+2017-09-24 14:47:06.0671|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:06.0910|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value .
+2017-09-24 14:47:06.0910|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QTSNKY&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=X1mEXoN6VgCtPHH5Jnow8mdZhMskf5tVdGUfgr8CiLM%253D) - ModelState is Valid
+2017-09-24 14:47:06.0910|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1049.123ms
+2017-09-24 14:47:06.2179|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:06.2459|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.0 out of 5 stars.
+2017-09-24 14:47:06.2461|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B00URGA106&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=iNUY5RgdQZB8bf9Alz61LaqVITGCRzqlfEZWXpJ9%252BkY%253D) - ModelState is Valid
+2017-09-24 14:47:06.3181|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1277.217ms
+2017-09-24 14:47:06.4261|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:06.4981|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B071GKCKP8&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=E00VGp987ceM4jm%252BPgKD8b9z70hWevpCwiheTPUXT7M%253D) - ModelState is Valid
+2017-09-24 14:47:06.5499|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:06.5799|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1506.801ms
+2017-09-24 14:47:06.6057|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:06.6098|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06Y3YT29T&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=OcjCHGECh8g8ofRI9hjZmnURf14TGfTwBS%252FTq6jOQgw%253D) - ModelState is Valid
+2017-09-24 14:47:06.6659|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 14:47:06.6752|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1601.184ms
+2017-09-24 14:47:06.7284|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:06.7507|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:06.7571|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072JM6J9N&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=yuodqARpze1EMynyfS5BRPXukfq9c2Jwg8Qx4Zf9Tm4%253D) - ModelState is Valid
+2017-09-24 14:47:06.7507|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1445.372ms
+2017-09-24 14:47:06.8296|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:06.8303|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073ZDZXFB&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=v9VwUS4kf%252BQma0UodWnG4wyG7UurXGOUWPPBGq9zNk4%253D) - ModelState is Valid
+2017-09-24 14:47:07.0994|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:07.1079|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1016.46ms
+2017-09-24 14:47:07.1510|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:07.1591|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073W3V7W3&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=75YIW2llslSGoCaWGSbs9wXqNFhPUUrACwcHW1I%252BOUw%253D) - ModelState is Valid
+2017-09-24 14:47:07.3265|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 14:47:07.3540|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1108.065ms
+2017-09-24 14:47:07.4282|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:07.4316|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QCP6X8&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=CPzhA2wFxKsV9nZr0i2ux3wkIwb2adb4re6%252FHgsSeH0%253D) - ModelState is Valid
+2017-09-24 14:47:07.4803|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:07.5093|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1034.922ms
+2017-09-24 14:47:07.5599|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:07.6208|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B00WS0I1O2&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=DXI%252BjJBHUZFgxyFWP4te8efJj2H3hcteC4haSVy0TI8%253D) - ModelState is Valid
+2017-09-24 14:47:07.7773|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:07.8060|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1049.084ms
+2017-09-24 14:47:07.8291|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 14:47:07.8626|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:07.8630|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1253.357ms
+2017-09-24 14:47:07.8840|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value .
+2017-09-24 14:47:07.9360|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1105.847ms
+2017-09-24 14:47:07.9429|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:07.9862|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:08.0231|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B00URGA106&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=iNUY5RgdQZB8bf9Alz61LaqVITGCRzqlfEZWXpJ9%252BkY%253D) - ModelState is Valid
+2017-09-24 14:47:08.0231|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QTSNKY&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A44Z&v=2&sig=X1mEXoN6VgCtPHH5Jnow8mdZhMskf5tVdGUfgr8CiLM%253D) - ModelState is Valid
+2017-09-24 14:47:07.8840|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073QHYCF7&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=FjaKN2xKlS55bgqZg8JYBG1NgJdh2QGTa%252Fq4bJ4mXvs%253D) - ModelState is Valid
+2017-09-24 14:47:08.2029|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.0 out of 5 stars.
+2017-09-24 14:47:08.2112|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1052.28ms
+2017-09-24 14:47:08.2664|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:08.2820|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:08.2820|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B071GKCKP8&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=E00VGp987ceM4jm%252BPgKD8b9z70hWevpCwiheTPUXT7M%253D) - ModelState is Valid
+2017-09-24 14:47:08.4838|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 14:47:08.4920|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 896.085ms
+2017-09-24 14:47:08.5735|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:08.5795|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06Y3YT29T&atag=glow0c1-20&exp=2017-09-25T21%3A36%3A43Z&v=2&sig=OcjCHGECh8g8ofRI9hjZmnURf14TGfTwBS%252FTq6jOQgw%253D) - ModelState is Valid
+2017-09-24 14:47:08.7583|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:08.7898|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 14:47:08.7988|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1364.175ms
+2017-09-24 14:47:08.8283|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 805.292ms
+2017-09-24 14:47:08.9156|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:47:08.9742|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:08.9742|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1090.531ms
+2017-09-24 14:47:09.1600|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:09.1600|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1136.646ms
+2017-09-24 14:47:09.1862|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 14:47:09.2379|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 955.481ms
+2017-09-24 14:47:09.3300|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 14:47:09.3300|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 756.257ms
+2017-09-24 14:47:09.4730|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AddToCart (shop) with arguments (shop.Models.Checkout) - ModelState is Valid
+2017-09-24 14:47:09.8492|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Cart.
+2017-09-24 14:47:09.8706|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AddToCart (shop) in 900.381ms
+2017-09-24 14:48:50.6154|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-24 14:48:52.9019|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 14:48:53.1848|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2580.977ms
+2017-09-24 14:49:25.8758|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:25.8758|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:25.9068|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:26.1422|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-24 14:49:26.7588|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-24 14:49:27.4199|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-24 14:49:27.4468|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 1462.749ms
+2017-09-24 14:49:27.4743|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-24 14:49:27.5260|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 1542.046ms
+2017-09-24 14:49:35.7071|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:35.7142|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (scott hahn, 1, US) - ModelState is Valid
+2017-09-24 14:49:36.6692|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value System.Collections.Generic.List`1[shop.Models.Item].
+2017-09-24 14:49:36.7106|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 997.799ms
+2017-09-24 14:49:36.7549|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:36.7560|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (scott hahn, 1, US) - ModelState is Valid
+2017-09-24 14:49:37.0456|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:37.0493|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385496591&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=9d0U4ZwhcZFm%252BsdryjGXHiAWm65z5uYyPM6F59oOH1E%253D) - ModelState is Valid
+2017-09-24 14:49:37.1991|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:37.1991|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0898704782&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=POGQOKbpb5Yl%252ByxFM57zF5CnrkGH%252FC4oqm2G72luApg%253D) - ModelState is Valid
+2017-09-24 14:49:37.1991|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:37.2373|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509359&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=jo6XRNLPeDmZ8GCV4Co676QN%252Fr1Gwtb4dp5AFyuBupA%253D) - ModelState is Valid
+2017-09-24 14:49:37.9584|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value System.Collections.Generic.List`1[shop.Models.Item].
+2017-09-24 14:49:37.9595|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 1203.889ms
+2017-09-24 14:49:37.9764|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:37.9770|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385501692&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=Y%252B3C7373SStEo3%252BsN%252BEsCwLMtyiKxyO6PGnbNJrFDPk%253D) - ModelState is Valid
+2017-09-24 14:49:38.9707|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:38.9796|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0892838299&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=ssNCSwxBncnpU2UtrJiWCMt%252BHW8zoUQCHxspsBscJMw%253D) - ModelState is Valid
+2017-09-24 14:49:39.5298|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:39.5303|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385519494&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=BFAzcnioz4%252BcZlBsEUVpzlpAwzTuEZoL7wKlABtDjZA%253D) - ModelState is Valid
+2017-09-24 14:49:40.8047|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:40.8047|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:40.8051|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1825.708ms
+2017-09-24 14:49:40.8051|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 3605.567ms
+2017-09-24 14:49:40.8707|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:40.8707|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:40.8713|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 2894.473ms
+2017-09-24 14:49:40.8707|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:40.8975|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:40.8713|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=1941447775&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=MPxHVqCSExsowSyFDwCJxSHHfvIyQlN%252Bj4%252B0gG%252F112Y%253D) - ModelState is Valid
+2017-09-24 14:49:40.9523|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 3903.349ms
+2017-09-24 14:49:40.9523|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509316&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=TyWVdsvWBzpGjtbhDi7Jnq01Fbeaz%252FZSZIUC9fiz7%252BY%253D) - ModelState is Valid
+2017-09-24 14:49:41.0410|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:40.9278|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:40.8975|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.6 out of 5 stars.
+2017-09-24 14:49:40.8047|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:41.1458|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0307590798&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=4hlJnkYlgjisKOInwB7TQwxbPSuXafH7fnmQdgWRf9E%253D) - ModelState is Valid
+2017-09-24 14:49:41.1731|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1642.856ms
+2017-09-24 14:49:41.1462|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 3908.973ms
+2017-09-24 14:49:41.0941|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0307589056&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=LTXwEEqPSURIsFx17BQ9rnzO1aBP1cYFAWkX19PAcCE%253D) - ModelState is Valid
+2017-09-24 14:49:41.2925|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:41.2399|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:41.3312|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385496591&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=fT%252BOFIRw9D72tEPJ5YBHQ6qm7FOo62sUQId%252F0MBz9vc%253D) - ModelState is Valid
+2017-09-24 14:49:41.3295|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385501692&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=pZqnz7CkA8j2NUXdmwMxSgGV70hzJ9Y13BEjeZKUW18%253D) - ModelState is Valid
+2017-09-24 14:49:41.7362|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:41.7362|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 784.652ms
+2017-09-24 14:49:41.7639|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:41.7902|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0898704782&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=snkxK8aA7dOYCgi85A85yyl8l8%252F%252FbqMBdTzFxMgZfdU%253D) - ModelState is Valid
+2017-09-24 14:49:41.8786|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:41.8793|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1008.113ms
+2017-09-24 14:49:41.9019|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:41.9105|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0892838299&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=JJ%252F2ERYV3m29aKEWAs3%252F2Z4a2dc0%252FNvcahIQ1Plxu7w%253D) - ModelState is Valid
+2017-09-24 14:49:42.1417|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:42.1926|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1047.053ms
+2017-09-24 14:49:42.1926|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.6 out of 5 stars.
+2017-09-24 14:49:42.2624|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:42.2884|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1194.486ms
+2017-09-24 14:49:42.2884|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509359&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=%252B14uiWq7k0OLT9mx%252BiYy%252FBPSAQczUl4Q9gWbooeJ6rc%253D) - ModelState is Valid
+2017-09-24 14:49:42.3393|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:42.3138|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:42.3658|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385519494&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=x2A5MGCQNHzlSIILBvG28FriS1EjpnJSzTJmD8K%252B4Os%253D) - ModelState is Valid
+2017-09-24 14:49:42.4837|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1152.645ms
+2017-09-24 14:49:42.5875|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:42.5886|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509316&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=eBkzgrPwn%252Fgv29DUtwAZsKHnkAcaU9Uf8bRIofOrJE8%253D) - ModelState is Valid
+2017-09-24 14:49:42.6321|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:42.6685|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1375.508ms
+2017-09-24 14:49:42.6913|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:42.6913|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=1941447775&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=%252BfSKxoy3ny0L7hQou2%252BYLFLgiDRamYm3AisTm5QJGV4%253D) - ModelState is Valid
+2017-09-24 14:49:42.9103|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:42.9186|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1149.352ms
+2017-09-24 14:49:42.9616|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:42.9679|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0307590798&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=JcIDlBreWD%252FMkd9VNqYaUOt6ACr5rX%252BJoB9Cxq1b%252Fw4%253D) - ModelState is Valid
+2017-09-24 14:49:43.0662|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.6 out of 5 stars.
+2017-09-24 14:49:43.0739|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 785.323ms
+2017-09-24 14:49:43.0978|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:43.0983|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0307589056&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=ecJYJT09iPdyUaDBBLFyjw0CHdBSebfGWyHznxdZBRg%253D) - ModelState is Valid
+2017-09-24 14:49:43.3662|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:43.3754|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1465.096ms
+2017-09-24 14:49:43.4402|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:43.4740|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0892838299&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=ssNCSwxBncnpU2UtrJiWCMt%252BHW8zoUQCHxspsBscJMw%253D) - ModelState is Valid
+2017-09-24 14:49:43.5035|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:43.5260|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:43.5853|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 996.783ms
+2017-09-24 14:49:43.5260|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 834.351ms
+2017-09-24 14:49:43.7073|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:43.7381|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:43.7409|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0898704782&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=POGQOKbpb5Yl%252ByxFM57zF5CnrkGH%252FC4oqm2G72luApg%253D) - ModelState is Valid
+2017-09-24 14:49:43.7654|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385501692&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=Y%252B3C7373SStEo3%252BsN%252BEsCwLMtyiKxyO6PGnbNJrFDPk%253D) - ModelState is Valid
+2017-09-24 14:49:43.6331|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:43.8622|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1522.248ms
+2017-09-24 14:49:43.7978|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:43.8817|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 913.927ms
+2017-09-24 14:49:43.9072|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:43.9099|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:43.9324|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385496591&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=9d0U4ZwhcZFm%252BsdryjGXHiAWm65z5uYyPM6F59oOH1E%253D) - ModelState is Valid
+2017-09-24 14:49:43.9570|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385519494&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=BFAzcnioz4%252BcZlBsEUVpzlpAwzTuEZoL7wKlABtDjZA%253D) - ModelState is Valid
+2017-09-24 14:49:44.1013|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.6 out of 5 stars.
+2017-09-24 14:49:44.1013|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1003.461ms
+2017-09-24 14:49:44.1182|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:44.1182|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509359&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=jo6XRNLPeDmZ8GCV4Co676QN%252Fr1Gwtb4dp5AFyuBupA%253D) - ModelState is Valid
+2017-09-24 14:49:44.4747|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:44.4832|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1009.408ms
+2017-09-24 14:49:44.5018|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:44.5022|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509316&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=TyWVdsvWBzpGjtbhDi7Jnq01Fbeaz%252FZSZIUC9fiz7%252BY%253D) - ModelState is Valid
+2017-09-24 14:49:44.6903|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:44.7014|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 936.236ms
+2017-09-24 14:49:44.7688|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:44.7693|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=1941447775&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=MPxHVqCSExsowSyFDwCJxSHHfvIyQlN%252Bj4%252B0gG%252F112Y%253D) - ModelState is Valid
+2017-09-24 14:49:44.9645|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:44.9645|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:45.0129|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1264.374ms
+2017-09-24 14:49:45.0130|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1102.839ms
+2017-09-24 14:49:45.0669|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:45.0958|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:45.1667|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:45.1681|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0307589056&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=LTXwEEqPSURIsFx17BQ9rnzO1aBP1cYFAWkX19PAcCE%253D) - ModelState is Valid
+2017-09-24 14:49:45.1681|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1235.528ms
+2017-09-24 14:49:45.0958|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0307590798&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A20Z&v=2&sig=4hlJnkYlgjisKOInwB7TQwxbPSuXafH7fnmQdgWRf9E%253D) - ModelState is Valid
+2017-09-24 14:49:45.2231|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:45.2681|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385496591&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=fT%252BOFIRw9D72tEPJ5YBHQ6qm7FOo62sUQId%252F0MBz9vc%253D) - ModelState is Valid
+2017-09-24 14:49:45.2902|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.6 out of 5 stars.
+2017-09-24 14:49:45.3513|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1177.269ms
+2017-09-24 14:49:45.3930|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:45.3994|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385501692&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=pZqnz7CkA8j2NUXdmwMxSgGV70hzJ9Y13BEjeZKUW18%253D) - ModelState is Valid
+2017-09-24 14:49:45.4505|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:45.4505|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 948.777ms
+2017-09-24 14:49:45.4696|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:45.4701|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0898704782&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=snkxK8aA7dOYCgi85A85yyl8l8%252F%252FbqMBdTzFxMgZfdU%253D) - ModelState is Valid
+2017-09-24 14:49:46.0706|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.6 out of 5 stars.
+2017-09-24 14:49:46.0747|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 906.711ms
+2017-09-24 14:49:46.1167|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:46.1487|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509359&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=%252B14uiWq7k0OLT9mx%252BiYy%252FBPSAQczUl4Q9gWbooeJ6rc%253D) - ModelState is Valid
+2017-09-24 14:49:46.1696|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:46.2212|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1451.954ms
+2017-09-24 14:49:46.2467|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:46.2552|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0892838299&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=JJ%252F2ERYV3m29aKEWAs3%252F2Z4a2dc0%252FNvcahIQ1Plxu7w%253D) - ModelState is Valid
+2017-09-24 14:49:46.3389|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:46.3395|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1071.62ms
+2017-09-24 14:49:46.4082|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:46.4082|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:46.4469|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1351.14ms
+2017-09-24 14:49:46.5043|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509316&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=eBkzgrPwn%252Fgv29DUtwAZsKHnkAcaU9Uf8bRIofOrJE8%253D) - ModelState is Valid
+2017-09-24 14:49:46.5182|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:46.5602|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=1941447775&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=%252BfSKxoy3ny0L7hQou2%252BYLFLgiDRamYm3AisTm5QJGV4%253D) - ModelState is Valid
+2017-09-24 14:49:46.6872|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:46.7036|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1304.284ms
+2017-09-24 14:49:46.7228|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:46.7234|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385519494&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=x2A5MGCQNHzlSIILBvG28FriS1EjpnJSzTJmD8K%252B4Os%253D) - ModelState is Valid
+2017-09-24 14:49:46.7698|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:46.7702|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1300.192ms
+2017-09-24 14:49:46.7938|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:46.7942|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0307590798&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=JcIDlBreWD%252FMkd9VNqYaUOt6ACr5rX%252BJoB9Cxq1b%252Fw4%253D) - ModelState is Valid
+2017-09-24 14:49:47.3556|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.6 out of 5 stars.
+2017-09-24 14:49:47.3744|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1232.229ms
+2017-09-24 14:49:47.4441|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:47.4441|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0307589056&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=ecJYJT09iPdyUaDBBLFyjw0CHdBSebfGWyHznxdZBRg%253D) - ModelState is Valid
+2017-09-24 14:49:47.5456|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:47.5456|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:47.5944|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1114.477ms
+2017-09-24 14:49:47.5686|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1318.61ms
+2017-09-24 14:49:47.6371|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:47.6773|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:47.6773|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385496591&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=fT%252BOFIRw9D72tEPJ5YBHQ6qm7FOo62sUQId%252F0MBz9vc%253D) - ModelState is Valid
+2017-09-24 14:49:47.7006|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385501692&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=pZqnz7CkA8j2NUXdmwMxSgGV70hzJ9Y13BEjeZKUW18%253D) - ModelState is Valid
+2017-09-24 14:49:47.8792|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:47.8914|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1334.847ms
+2017-09-24 14:49:47.9352|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:47.9395|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0898704782&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=snkxK8aA7dOYCgi85A85yyl8l8%252F%252FbqMBdTzFxMgZfdU%253D) - ModelState is Valid
+2017-09-24 14:49:48.0385|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:48.0459|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1251.819ms
+2017-09-24 14:49:48.0891|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:48.1089|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:48.1090|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1385.799ms
+2017-09-24 14:49:48.1320|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509359&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=%252B14uiWq7k0OLT9mx%252BiYy%252FBPSAQczUl4Q9gWbooeJ6rc%253D) - ModelState is Valid
+2017-09-24 14:49:48.1482|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:48.1761|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509316&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=eBkzgrPwn%252Fgv29DUtwAZsKHnkAcaU9Uf8bRIofOrJE8%253D) - ModelState is Valid
+2017-09-24 14:49:48.2753|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.6 out of 5 stars.
+2017-09-24 14:49:48.2829|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 838.351ms
+2017-09-24 14:49:48.3027|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:48.3033|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0892838299&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=JJ%252F2ERYV3m29aKEWAs3%252F2Z4a2dc0%252FNvcahIQ1Plxu7w%253D) - ModelState is Valid
+2017-09-24 14:49:48.5891|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:48.5975|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 941.726ms
+2017-09-24 14:49:48.6177|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:48.6183|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=1941447775&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=%252BfSKxoy3ny0L7hQou2%252BYLFLgiDRamYm3AisTm5QJGV4%253D) - ModelState is Valid
+2017-09-24 14:49:48.8307|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:48.8900|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1189.595ms
+2017-09-24 14:49:48.9192|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:48.9903|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:48.9903|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1055.195ms
+2017-09-24 14:49:49.0422|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:49.0496|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0307590798&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=JcIDlBreWD%252FMkd9VNqYaUOt6ACr5rX%252BJoB9Cxq1b%252Fw4%253D) - ModelState is Valid
+2017-09-24 14:49:49.0840|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-24 14:49:49.1922|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.6 out of 5 stars.
+2017-09-24 14:49:49.2383|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1106.514ms
+2017-09-24 14:49:49.2157|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:49.2843|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1108.357ms
+2017-09-24 14:49:49.2612|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:49.3295|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:49.3295|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385519494&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=x2A5MGCQNHzlSIILBvG28FriS1EjpnJSzTJmD8K%252B4Os%253D) - ModelState is Valid
+2017-09-24 14:49:49.3301|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0307589056&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=ecJYJT09iPdyUaDBBLFyjw0CHdBSebfGWyHznxdZBRg%253D) - ModelState is Valid
+2017-09-24 14:49:49.3704|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:49.3711|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1067.91ms
+2017-09-24 14:49:49.3963|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:49.3963|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385496591&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=fT%252BOFIRw9D72tEPJ5YBHQ6qm7FOo62sUQId%252F0MBz9vc%253D) - ModelState is Valid
+2017-09-24 14:49:49.6146|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:49.6150|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 996.89ms
+2017-09-24 14:49:49.6338|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:49.6344|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385501692&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=pZqnz7CkA8j2NUXdmwMxSgGV70hzJ9Y13BEjeZKUW18%253D) - ModelState is Valid
+2017-09-24 14:49:49.7445|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-24 14:49:49.7599|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByEmail (shop) in 709.79ms
+2017-09-24 14:49:49.7785|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:49.7797|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0898704782&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=snkxK8aA7dOYCgi85A85yyl8l8%252F%252FbqMBdTzFxMgZfdU%253D) - ModelState is Valid
+2017-09-24 14:49:50.0200|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.6 out of 5 stars.
+2017-09-24 14:49:50.0514|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 721.411ms
+2017-09-24 14:49:50.0725|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:50.0200|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:50.0876|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:50.1317|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 801.912ms
+2017-09-24 14:49:50.1317|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509359&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=%252B14uiWq7k0OLT9mx%252BiYy%252FBPSAQczUl4Q9gWbooeJ6rc%253D) - ModelState is Valid
+2017-09-24 14:49:50.0876|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1044.827ms
+2017-09-24 14:49:50.2162|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:50.2281|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:50.2281|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0385509316&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=eBkzgrPwn%252Fgv29DUtwAZsKHnkAcaU9Uf8bRIofOrJE8%253D) - ModelState is Valid
+2017-09-24 14:49:50.2522|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=0892838299&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=JJ%252F2ERYV3m29aKEWAs3%252F2Z4a2dc0%252FNvcahIQ1Plxu7w%253D) - ModelState is Valid
+2017-09-24 14:49:51.1986|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:51.1986|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.8 out of 5 stars.
+2017-09-24 14:49:51.2681|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1871.41ms
+2017-09-24 14:49:51.2171|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 989.147ms
+2017-09-24 14:49:51.3809|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:51.3810|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:49:51.4127|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1778.489ms
+2017-09-24 14:49:51.4422|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=1941447775&atag=glow0c1-20&exp=2017-09-25T21%3A39%3A21Z&v=2&sig=%252BfSKxoy3ny0L7hQou2%252BYLFLgiDRamYm3AisTm5QJGV4%253D) - ModelState is Valid
+2017-09-24 14:49:51.4992|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.7 out of 5 stars.
+2017-09-24 14:49:51.5383|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1758.864ms
+2017-09-24 14:49:51.6531|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:51.6618|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1430.414ms
+2017-09-24 14:49:51.6563|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.6 out of 5 stars.
+2017-09-24 14:49:51.6777|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1545.968ms
+2017-09-24 14:49:52.1972|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 4.9 out of 5 stars.
+2017-09-24 14:49:52.2058|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 763.771ms
+2017-09-24 14:54:17.5828|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:54:17.6249|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByAmazonId (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-24 14:54:17.8709|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-24 14:54:17.8720|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByAmazonId (shop) in 248.3ms
+2017-09-24 14:54:21.4933|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:54:21.4933|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:54:21.4943|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-24 14:54:21.5674|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:54:21.7555|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-24 14:54:21.7631|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 269.058ms
+2017-09-24 14:54:21.8192|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-24 14:54:22.1709|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-24 14:54:22.1715|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 603.217ms
+2017-09-24 14:54:23.8594|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:54:23.8601|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-24 14:54:24.1506|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-24 14:54:24.1514|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByEmail (shop) in 291.466ms
+2017-09-24 14:54:37.8969|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:54:37.9180|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:54:37.9528|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Add (shop) with arguments (shop.Models.User) - ModelState is Valid
+2017-09-24 14:54:38.5499|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-24 14:54:38.5504|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Add (shop) in 624.48ms
+2017-09-24 14:55:10.7515|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:55:10.7801|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:55:11.0825|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-24 14:55:11.3971|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-24 14:55:11.4050|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 624.327ms
+2017-09-24 14:55:33.8265|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:55:33.8741|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:55:33.8798|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:55:33.8803|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-24 14:55:33.8798|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:55:33.8803|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.DnsController.FindDnsByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-24 14:55:34.1184|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-24 14:55:34.1184|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-24 14:55:34.1280|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 247.815ms
+2017-09-24 14:55:34.4412|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-24 14:55:34.4500|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 569.797ms
+2017-09-24 14:55:35.0184|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.Dns.
+2017-09-24 14:55:35.0272|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.DnsController.FindDnsByEmail (shop) in 1146.287ms
+2017-09-24 14:56:28.6173|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:56:28.6415|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:56:28.6517|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.Add (shop) with arguments (shop.Models.User) - ModelState is Valid
+2017-09-24 14:56:29.1172|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-24 14:56:29.1180|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.Add (shop) in 475.945ms
+2017-09-24 14:56:50.9513|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:56:50.9732|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:56:51.0082|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AddToCart (shop) with arguments (shop.Models.Checkout) - ModelState is Valid
+2017-09-24 14:56:52.3725|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 14:56:52.3736|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AddToCart (shop) in 1396.965ms
+2017-09-24 14:56:52.4112|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:56:52.4557|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:56:52.6905|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-24 14:56:53.0090|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-24 14:56:53.0172|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 560.963ms
+2017-09-24 14:59:53.0817|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:59:53.0817|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:59:53.1330|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.UserController.FindByEmail (shop) with arguments (ya@mail.com) - ModelState is Valid
+2017-09-24 14:59:53.1791|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 14:59:53.3984|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.User.
+2017-09-24 14:59:53.3994|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.UserController.FindByEmail (shop) in 294.251ms
+2017-09-24 14:59:53.4383|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-24 14:59:53.7488|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-24 14:59:53.7496|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 569.572ms
+2017-09-24 15:00:39.0710|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:39.0724|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.GetItems (shop) with arguments (irulu tablet, 1, US) - ModelState is Valid
+2017-09-24 15:00:40.1866|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value System.Collections.Generic.List`1[shop.Models.Item].
+2017-09-24 15:00:40.1885|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.GetItems (shop) in 1116.458ms
+2017-09-24 15:00:40.5676|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:40.5707|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QTSNKY&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=XQk%252FKZNpjG7LT%252B14dpeVqwIyoAJk%252FIu3L8OjIHm2CKM%253D) - ModelState is Valid
+2017-09-24 15:00:40.5766|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:40.5772|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06Y3YT29T&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=hvx1iVC97FK%252FTL8cQGD5sVZiFA%252Fey%252FzgaYMJhQTtDOo%253D) - ModelState is Valid
+2017-09-24 15:00:40.7006|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:40.7006|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:40.7012|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073W3V7W3&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=XEk0I4A2%252BChFrMvuA4INQ7MyUVH8pxMQZ%252B6%252Fmyc6Gps%253D) - ModelState is Valid
+2017-09-24 15:00:40.7012|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QCP6X8&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=QGwCPl2HM1stRf6nr1NBC9JnqpWLfXmyQYScoZbyFQE%253D) - ModelState is Valid
+2017-09-24 15:00:40.8420|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:40.8420|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:40.8656|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072JM6J9N&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=Yyw5dnZAWfBpHryc5YICDp47UyCTF0FyUXM0lVHud2s%253D) - ModelState is Valid
+2017-09-24 15:00:40.8660|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B00WS0I1O2&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=H5w0DjLse25BbqX0nrI7IewcDheV2qEEFJ7l2FToPcU%253D) - ModelState is Valid
+2017-09-24 15:00:41.7306|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:41.7501|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1179.616ms
+2017-09-24 15:00:41.8561|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:42.0282|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 15:00:42.1387|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B071GKCKP8&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=Fl8yXriH2SvCkH1UUYMh8gZRyueFrIK3LgYHdhB3Pag%253D) - ModelState is Valid
+2017-09-24 15:00:42.1632|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:42.1632|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.0 out of 5 stars.
+2017-09-24 15:00:42.1640|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1586.886ms
+2017-09-24 15:00:42.1632|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:42.1632|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1462.651ms
+2017-09-24 15:00:42.1640|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1463.094ms
+2017-09-24 15:00:42.2929|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:42.2334|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1367.959ms
+2017-09-24 15:00:42.3078|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:42.4233|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073ZDZXFB&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=bY3QubI8%252FB7v5KpNcuihufshjUZhhistiR59W%252B7pTa4%253D) - ModelState is Valid
+2017-09-24 15:00:42.4503|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 15:00:42.4510|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1585.137ms
+2017-09-24 15:00:42.2108|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:42.4713|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:42.4877|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QTSNKY&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=XQk%252FKZNpjG7LT%252B14dpeVqwIyoAJk%252FIu3L8OjIHm2CKM%253D) - ModelState is Valid
+2017-09-24 15:00:42.4713|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:42.3325|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B00URGA106&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=L2qhwAuwxQ4e7ZNsnzBI02o4LNI%252Bp1aENcDdbENa02g%253D) - ModelState is Valid
+2017-09-24 15:00:42.4884|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06Y3YT29T&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=hvx1iVC97FK%252FTL8cQGD5sVZiFA%252Fey%252FzgaYMJhQTtDOo%253D) - ModelState is Valid
+2017-09-24 15:00:42.4877|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073QHYCF7&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=foW69%252ByQ9AtZVJNbb8KqbwbFVmh6O10EMY7vYsAYseY%253D) - ModelState is Valid
+2017-09-24 15:00:42.9241|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value .
+2017-09-24 15:00:42.9325|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 509.342ms
+2017-09-24 15:00:42.9802|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:42.9802|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QCP6X8&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=QGwCPl2HM1stRf6nr1NBC9JnqpWLfXmyQYScoZbyFQE%253D) - ModelState is Valid
+2017-09-24 15:00:43.0823|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:43.0823|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 944.288ms
+2017-09-24 15:00:43.1049|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:43.1132|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073W3V7W3&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=XEk0I4A2%252BChFrMvuA4INQ7MyUVH8pxMQZ%252B6%252Fmyc6Gps%253D) - ModelState is Valid
+2017-09-24 15:00:44.1888|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:44.2502|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1744.809ms
+2017-09-24 15:00:44.2757|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:44.3020|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072JM6J9N&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=Yyw5dnZAWfBpHryc5YICDp47UyCTF0FyUXM0lVHud2s%253D) - ModelState is Valid
+2017-09-24 15:00:44.3277|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 15:00:44.3283|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1839.963ms
+2017-09-24 15:00:44.3277|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 15:00:44.3947|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:44.4170|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 2105.492ms
+2017-09-24 15:00:44.4232|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B00WS0I1O2&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=H5w0DjLse25BbqX0nrI7IewcDheV2qEEFJ7l2FToPcU%253D) - ModelState is Valid
+2017-09-24 15:00:44.4920|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:44.5451|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073ZDZXFB&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=bY3QubI8%252FB7v5KpNcuihufshjUZhhistiR59W%252B7pTa4%253D) - ModelState is Valid
+2017-09-24 15:00:44.6823|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:44.6835|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:44.6911|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 2203.659ms
+2017-09-24 15:00:44.6846|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.0 out of 5 stars.
+2017-09-24 15:00:44.6980|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1717.264ms
+2017-09-24 15:00:44.7901|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1677.001ms
+2017-09-24 15:00:44.8297|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:44.7901|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:44.9110|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QTSNKY&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=XQk%252FKZNpjG7LT%252B14dpeVqwIyoAJk%252FIu3L8OjIHm2CKM%253D) - ModelState is Valid
+2017-09-24 15:00:44.9110|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B071GKCKP8&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=Fl8yXriH2SvCkH1UUYMh8gZRyueFrIK3LgYHdhB3Pag%253D) - ModelState is Valid
+2017-09-24 15:00:44.9108|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:44.9644|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B06Y3YT29T&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=hvx1iVC97FK%252FTL8cQGD5sVZiFA%252Fey%252FzgaYMJhQTtDOo%253D) - ModelState is Valid
+2017-09-24 15:00:45.3178|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value .
+2017-09-24 15:00:45.3263|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 781.391ms
+2017-09-24 15:00:45.4332|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:45.4386|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B00URGA106&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=L2qhwAuwxQ4e7ZNsnzBI02o4LNI%252Bp1aENcDdbENa02g%253D) - ModelState is Valid
+2017-09-24 15:00:45.7084|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:45.7819|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1477.1ms
+2017-09-24 15:00:45.8444|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 15:00:45.8444|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:45.8985|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1481.375ms
+2017-09-24 15:00:45.9389|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073QHYCF7&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=foW69%252ByQ9AtZVJNbb8KqbwbFVmh6O10EMY7vYsAYseY%253D) - ModelState is Valid
+2017-09-24 15:00:45.9742|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:45.9987|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:45.9993|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1088.14ms
+2017-09-24 15:00:45.9987|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:45.9987|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072QCP6X8&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=QGwCPl2HM1stRf6nr1NBC9JnqpWLfXmyQYScoZbyFQE%253D) - ModelState is Valid
+2017-09-24 15:00:46.0743|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1187.775ms
+2017-09-24 15:00:46.0697|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:46.1784|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B073W3V7W3&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=XEk0I4A2%252BChFrMvuA4INQ7MyUVH8pxMQZ%252B6%252Fmyc6Gps%253D) - ModelState is Valid
+2017-09-24 15:00:46.1784|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 15:00:46.2686|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AmazonController.AverageStars (shop) with arguments (https:%2F%2Fwww.amazon.com%2Freviews%2Fiframe?akid=AKIAIDSHH5ILRFRK6DRQ&alinkCode=xm2&asin=B072JM6J9N&atag=glow0c1-20&exp=2017-09-25T21%3A50%3A24Z&v=2&sig=Yyw5dnZAWfBpHryc5YICDp47UyCTF0FyUXM0lVHud2s%253D) - ModelState is Valid
+2017-09-24 15:00:46.3149|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 15:00:46.3153|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1403.01ms
+2017-09-24 15:00:46.8557|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.6 out of 5 stars.
+2017-09-24 15:00:46.8740|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1440.117ms
+2017-09-24 15:00:47.0877|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:47.1034|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1128.788ms
+2017-09-24 15:00:47.2173|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:47.2784|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.0 out of 5 stars.
+2017-09-24 15:00:47.2784|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1289.388ms
+2017-09-24 15:00:47.3118|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1145.67ms
+2017-09-24 15:00:47.4020|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value 3.5 out of 5 stars.
+2017-09-24 15:00:47.4020|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AmazonController.AverageStars (shop) in 1133.915ms
+2017-09-24 20:53:03.1468|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-24 20:53:04.6973|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 1570.473ms
+2017-09-24 20:55:42.3221|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 20:55:42.5728|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 20:55:42.7558|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-24 20:55:44.7229|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 1961.238ms
+2017-09-24 20:55:44.7229|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2027.086ms
+2017-09-24 21:14:06.2489|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.ValuesController.Get (shop) with arguments ((null)) - ModelState is Valid
+2017-09-24 21:14:08.7707|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-09-24 21:14:09.0142|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.ValuesController.Get (shop) in 2769.783ms
+2017-09-24 21:14:19.9780|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 21:14:20.1801|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 21:14:21.1412|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-24 21:14:41.0205|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-24 21:14:41.0540|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 20759.314ms
+2017-09-24 21:27:29.0473|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 21:27:29.0909|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2017-09-24 21:27:31.2786|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method shop.Controllers.LogClientController.Add (shop) with arguments (shop.Models.LogClient) - ModelState is Valid
+2017-09-24 21:27:31.7740|INFO|Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor|Executing JsonResult, writing value shop.Models.LogClient.
+2017-09-24 21:27:31.7740|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action shop.Controllers.LogClientController.Add (shop) in 2680.128ms
